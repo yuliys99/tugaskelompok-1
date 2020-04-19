@@ -13,7 +13,7 @@ context.strokeRect(70,180,150,210);
 context.fillStyle='orange';
 context.fillRect(70,149,150,32); 
 context.strokeStyle="#000000";
-context.lineWidth=1;
+context.lineWidth=1; //menambahkan garis pada objek
 context.strokeRect(70,149,150,32);
 
 // pegangan1 
